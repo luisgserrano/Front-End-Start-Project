@@ -1,0 +1,23 @@
+{
+  "name": "the name of your project",
+  "version": "0.1.0",
+  "description": "Some description here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Serrano",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "1.7.9"
+  },
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-bowercopy": "^1.2.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
