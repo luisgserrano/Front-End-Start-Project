@@ -1,17 +1,10 @@
 {
-  "name": "the name of your project",
-  "version": "0.1.0",
-  "description": "Some description here",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Luis Serrano",
-  "license": "ISC",
-  "devDependencies": {
-    "bower": "1.7.9"
-  },
+  "name": "grunt-start-project",
+  "version": "1.0.0",
+  "description": "Every time I start a new project I end up copy and pasting / deleting this code...",
+  "main": "main.js",
   "dependencies": {
+    "bower": "1.7.9",
     "grunt": "^1.0.1",
     "grunt-bowercopy": "^1.2.4",
     "grunt-contrib-concat": "^1.0.1",
@@ -19,5 +12,19 @@
     "grunt-contrib-sass": "^1.0.0",
     "grunt-contrib-uglify": "^1.0.1",
     "grunt-contrib-watch": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisgserrano/Grunt-start-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisgserrano/Grunt-start-project/issues"
+  },
+  "homepage": "https://github.com/luisgserrano/Grunt-start-project#readme"
 }

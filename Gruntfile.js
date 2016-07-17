@@ -9,9 +9,9 @@ module.exports = function(grunt) {
                     destPrefix: "assets/libs"
                 },
                 files: {
-                    "jquery": "jquery/dist/jquery.min.js",
+                    "jquery": "jquery-1.11.1/dist/jquery.min.js",
                     "bootstrap/scss": "bootstrap-sass/assets/stylesheets",
-                    "bootstrap/fonts": "bootstrap-sass/assets/fonts"
+                    "bootstrap/fonts": "bootstrap-sass/assets/fonts",
                     "bootstrap/js": "bootstrap-sass/assets/javascripts/bootstrap.min.js"
                 }
             }
@@ -32,7 +32,7 @@ module.exports = function(grunt) {
                 separator: ";"
             },
             dist: {
-                src: ["assets/libs/jquery/jquery.min.js", "assets/libs/bootstrap/js/bootstrap.min.js", "dist/assets/js/app.js"]
+                src: ["assets/libs/jquery/jquery.min.js", "assets/libs/bootstrap/js/bootstrap.min.js", "dist/assets/js/app.js"],
                 dest: "dist/assets/js/main.js"
             }
         },
@@ -82,5 +82,5 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks("grunt-contrib-sass");
     grunt.loadNpmTasks("grunt-contrib-watch");
 
-    grunt.registerTask("default", ["bowercopy", "concat", "uglify", "sass", "watch"]);
+    grunt.registerTask("default", ["concat", "uglify", "sass", "watch"]);
 };
