@@ -1,0 +1,44 @@
+// variables of the project
+
+// Base variables in SASS
+// Usage:
+// - Use the variables below to control the appearance of the app
+// Author:
+// - Luis Serrano
+
+// Typography
+$base-font-family: 'helveticaNue', sans-serif;
+// $secondary-font-family: 'FlamaSemicondSemibold', sans-serif;
+// $third-font-family: 'FlamaUltraCondBook', sans-serif;
+// $fourth-font-family: 'FlamaSemicondBold', sans-serif;
+
+// Font Sizes
+$base-font-size: 14px;
+
+// Colors
+
+// Brand Colors
+$brand-primary: #fd0;
+$brand-secondary: #1c1c1c;
+
+// colors
+$white: #fff;
+$black: #000;
+// to add more
+
+// Font Colors
+$base-text-color: $white;
+$base-secondary-color: #a4a4a4;
+//$base-third-color: #FFDD00;
+
+// Measurements
+
+// devices
+$min-app-width: 320px;
+$min-tablet-width: 768px;
+
+// transitions
+$base-transition: all 600ms cubic-bezier(.23, 1, .32, 1);
+
+// widths
+$modal-width: 580px;

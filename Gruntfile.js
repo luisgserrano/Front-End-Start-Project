@@ -9,20 +9,20 @@ module.exports = function(grunt) {
                     destPrefix: "assets/libs"
                 },
                 files: {
-                    //"jquery": "jquery/dist/jquery.min.js",
-                    //"bootstrap/scss": "bootstrap-sass/assets/stylesheets",
-                    //"bootstrap/fonts": "bootstrap-sass/assets/fonts"
-                    //"bootstrap/js": "bootstrap-sass/assets/javascripts/bootstrap.min.js"
+                    "jquery": "jquery/dist/jquery.min.js",
+                    "bootstrap/scss": "bootstrap-sass/assets/stylesheets",
+                    "bootstrap/fonts": "bootstrap-sass/assets/fonts"
+                    "bootstrap/js": "bootstrap-sass/assets/javascripts/bootstrap.min.js"
                 }
             }
-            // this is for plugins only, not for big libs like jquery or bootstrap for example
+            //this is for plugins only, not for big libs like jquery or bootstrap for example
             // plugins: {
             //     options: {
             //         destPrefix: "assets/plugins"
             //     },
             //     files: {
             //         "waypoints": ["waypoints/lib/jquery.waypoints.min.js", "waypoints/lib/shortcuts/sticky.min.js"]
-            //
+
             //     }
             // }
         },
@@ -32,8 +32,8 @@ module.exports = function(grunt) {
                 separator: ";"
             },
             dist: {
-                //src: ["assets/libs/jquery/jquery.min.js", "assets/libs/bootstrap/js/bootstrap.min.js", "assets/js/app.js"]
-                dest: "assets/js/main.js"
+                src: ["assets/libs/jquery/jquery.min.js", "assets/libs/bootstrap/js/bootstrap.min.js", "dist/assets/js/app.js"]
+                dest: "dist/assets/js/main.js"
             }
         },
         // compress and convert the main scss file to a css file
@@ -45,7 +45,7 @@ module.exports = function(grunt) {
                 },
                 files: {
                     // Destinations         // Source File
-                    "assets/css/app.css": "assets/scss/main.scss"
+                    "dist/assets/css/app.css": "assets/scss/main.scss"
                 }
             }
         },
@@ -53,7 +53,7 @@ module.exports = function(grunt) {
         uglify: {
             my_target: {
                 files: {
-                    "assets/js/main.min.js": ["assets/js/main.js"]
+                    "dist/assets/js/main.min.js": ["dist/assets/js/main.js"]
                 }
             }
         },
@@ -69,7 +69,7 @@ module.exports = function(grunt) {
                 tasks: ["sass"]
             },
             js: {
-                files: ["assets/js/main.js", "assets/js/app.js"],
+                files: ["dist/assets/js/main.js", "dist/assets/js/app.js"],
                 tasks: ["concat", "uglify"]
             }
         }

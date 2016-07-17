@@ -1,0 +1,103 @@
+/*===================================
+=            Main Navbar            =
+===================================*/
+
+.home {
+
+	&-topnav {
+		margin-top: 1.2711864407%; /* 47px / 1180px */
+		text-transform: uppercase;
+
+		@media screen and (max-width: 768px) {
+			display: none;
+		}
+
+		&.only-mobile {
+			display: none;
+
+			@media screen and (max-width: 768px) {
+				display: block;
+				margin: 0;
+				padding: 2.6041666667%; /* 20 / 768 */
+				background-color: $brand-secondary;
+				z-index: 999999;
+				-webkit-backface-visibility: hidden;
+			}
+		}
+
+		@media screen and (max-width: 1180px) {
+			position: fixed;
+			top: 0;
+			width: 100%;
+			padding: 0 20px;
+		}
+
+		@media screen and (max-height: 768px) {
+			margin-top: 2.1186440678%; /* 25 / 1180 */
+		}
+
+		&__logo {
+
+			img {
+				@media screen and (max-height: 768px) {
+		    		width: 100px;
+		    	}
+
+		    	@media screen and (max-width: 480px) {
+					width: 75px;
+				}
+			}
+
+			@media screen and (max-width: 480px) {
+				left: 20px;
+				transform: none;
+			}
+
+		}
+
+		&__user-logged,
+		&__user-logged img,
+		&__not-logged {
+			float: right;
+		}
+
+		&__user-logged,
+		&__not-logged {
+			display: none;
+			background-color: rgba(28, 28, 28, 0.8);
+			padding: 10px;
+		}
+
+		&__user-logged {
+
+			img {
+				margin-left: 20px;
+
+				@media screen and (max-width: 480px) {
+					width: 24px;
+				}
+			}
+		}
+
+		&__not-logged {
+			text-align: center;
+
+			p {
+				margin-bottom: 3px;
+			}
+		}
+
+		&__user-info {
+			text-align: right;
+
+			&--darker {
+				color: #808080;
+			}
+
+			@media screen and (max-width: 480px) {
+				font-size: 0.7857142857em; /* 11 / 14 */
+			}
+		}
+	}
+
+}
