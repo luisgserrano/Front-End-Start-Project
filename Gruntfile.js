@@ -1,15 +1,17 @@
 module.exports = function(grunt) {
     "use strict";
+    //noinspection JSDuplicatedDeclaration
     grunt.initConfig({
         pkg: grunt.file.readJSON("package.json"),
         // copy only the files you want to a more organized folder
         bowercopy: {
             libs: {
                 options: {
-                    destPrefix: "assets/libs"
+                    destPrefix: "dist/assets/libs"
                 },
                 files: {
-                    "jquery": "jquery-1.11.1/dist/jquery.min.js",
+                    "jquery": "jquery/dist/jquery.min.js",
+                    "jquery": "jquery-migrate/jquery-migrate.min.js",
                     "bootstrap/scss": "bootstrap-sass/assets/stylesheets",
                     "bootstrap/fonts": "bootstrap-sass/assets/fonts",
                     "bootstrap/js": "bootstrap-sass/assets/javascripts/bootstrap.min.js"
@@ -32,7 +34,7 @@ module.exports = function(grunt) {
                 separator: ";"
             },
             dist: {
-                src: ["assets/libs/jquery/jquery.min.js", "assets/libs/bootstrap/js/bootstrap.min.js", "dist/assets/js/app.js"],
+                src: ["dist/assets/libs/jquery/jquery.min.js", "dist/assets/libs/jquery/jquery-migrate.min.js", "dist/assets/libs/bootstrap/js/bootstrap.min.js", "dist/assets/js/app.js"],
                 dest: "dist/assets/js/main.js"
             }
         },
@@ -55,6 +57,26 @@ module.exports = function(grunt) {
                 files: {
                     "dist/assets/js/main.min.js": ["dist/assets/js/main.js"]
                 }
+            }
+        },
+        postcss: {
+            options: {
+                map: true, // inline sourcemaps
+
+                // or
+                map: {
+                    inline: false, // save all sourcemaps as separate files...
+                    annotation: 'dist/assets/css/' // ...to the specified directory
+                },
+
+                processors: [
+                    require('pixrem')(), // add fallbacks for rem units
+                    require('autoprefixer')({browsers: 'last 2 versions'}), // add vendor prefixes
+                    require('cssnano')() // minify the result
+                ]
+            },
+            dist: {
+                src: 'dist/assets/css/*.css'
             }
         },
         // watch your scss and js files
@@ -81,6 +103,7 @@ module.exports = function(grunt) {
     grunt.loadNpmTasks("grunt-contrib-uglify");
     grunt.loadNpmTasks("grunt-contrib-sass");
     grunt.loadNpmTasks("grunt-contrib-watch");
+    grunt.loadNpmTasks('grunt-postcss');
 
-    grunt.registerTask("default", ["concat", "uglify", "sass", "watch"]);
+    grunt.registerTask("default", ["concat", "uglify", "sass", "postcss", "watch"]);
 };

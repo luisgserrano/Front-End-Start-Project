@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c455ce33-85dc-4d0d-b8c1-da971c53cea7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Grunt_start_project_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/_bootstrap-compass.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/_bootstrap-mincer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/_bootstrap-sprockets.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/_bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_badges.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_breadcrumbs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_button-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_carousel.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_close.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_code.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_component-animations.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_dropdowns.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_glyphicons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_input-groups.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_jumbotron.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_media.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_modals.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_navbar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_navs.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_normalize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_pager.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_popovers.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_print.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_progress-bars.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_responsive-embed.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_responsive-utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_scaffolding.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_tables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_theme.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_thumbnails.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_tooltip.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_type.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_utilities.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_variables.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/_wells.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_alerts.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_background-variant.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_border-radius.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_buttons.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_center-block.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_clearfix.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_forms.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_gradients.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_grid-framework.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_grid.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_hide-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_image.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_labels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_list-group.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_nav-divider.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_nav-vertical-align.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_opacity.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_pagination.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_panels.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_progress-bar.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_reset-filter.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_reset-text.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_resize.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_responsive-visibility.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_size.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_tab-focus.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_table-row.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_text-emphasis.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_text-overflow.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/bootstrap/scss/bootstrap/mixins/_vendor-prefixes.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/libs/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/plugins/.keep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.mailmap" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.npmrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/AUTHORS.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/build/release.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/build/release/cdn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/build/release/dist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/build/release/ensure-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/build/tasks/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/build/tasks/dist.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/build/tasks/lib/spawn_test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/build/tasks/node_smoke_tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/build/tasks/promises_aplus_tests.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/build/tasks/sourcemap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/build/tasks/testswarm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/dist/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/npo/npo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/qunit-assert-step/MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/qunit-assert-step/qunit-assert-step.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/qunit/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/qunit/MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/qunit/qunit.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/qunit/qunit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/requirejs/require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/sinon/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/sinon/sinon.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/sizzle/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/sizzle/dist/sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/sizzle/dist/sizzle.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/external/sizzle/dist/sizzle.min.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/ajax/jsonp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/ajax/load.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/ajax/parseXML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/ajax/script.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/ajax/var/location.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/ajax/var/nonce.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/ajax/var/rquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/ajax/xhr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/attributes/attr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/attributes/classes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/attributes/prop.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/attributes/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/attributes/val.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/core/DOMEval.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/core/access.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/core/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/core/parseHTML.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/core/ready-no-deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/core/ready.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/core/readyException.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/core/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/core/var/rsingleTag.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/addGetHookIf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/adjustCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/curCSS.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/hiddenVisibleSelectors.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/showHide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/var/cssExpand.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/var/getStyles.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/var/isHiddenWithinTree.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/var/rmargin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/var/rnumnonpx.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/css/var/swap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/data/Data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/data/var/acceptData.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/data/var/dataPriv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/data/var/dataUser.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/deferred/exceptionHook.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/effects/Tween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/effects/animatedSelector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/event/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/event/alias.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/event/focusin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/event/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/event/trigger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/exports/amd.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/exports/global.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/manipulation/_evalUrl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/manipulation/buildFragment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/manipulation/getAll.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/manipulation/setGlobalEval.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/manipulation/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/manipulation/var/rcheckableType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/manipulation/var/rscriptType.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/manipulation/var/rtagName.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/manipulation/wrapMap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/offset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/queue/delay.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/selector-native.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/selector-sizzle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/traversing/findFilter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/traversing/var/dir.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/traversing/var/rneedsContext.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/traversing/var/siblings.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/ObjectFunctionString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/arr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/class2type.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/concat.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/document.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/documentElement.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/fnToString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/getProto.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/hasOwn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/indexOf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/pnum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/push.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/rcssNum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/rnotwhite.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/slice.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/var/toString.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/src/wrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/1x1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/ajax/content-type.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/ajax/evalScript.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/ajax/method.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/ajax/onunload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/ajax/unreleasedXHR.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/atom+xml.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/badcall.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/badjson.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/cleanScript.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/core/aliased.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/core/cc_on.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/core/dont_return.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/core/dynamic_ready.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/core/onready.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/css/cssWidthBeforeDocReady.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/dashboard.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/data/dataAttrs.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/dimensions/documentLarge.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/echoData.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/echoQuery.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/errorWithJSON.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/errorWithText.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/etag.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/event/focusElem.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/event/focusinCrossFrame.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/event/interactiveReady.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/event/onbeforeunload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/event/promiseReady.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/event/syncReady.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/event/triggerunload.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/headers.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/if_modified_since.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/iframeTest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/jquery-1.9.1.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/json.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/json_obj.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/jsonp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/longLoadScript.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/manipulation/iframe-denied.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/manipulation/scripts-context.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/name.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/name.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/nocontent.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/offset/absolute.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/offset/body.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/offset/fixed.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/offset/relative.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/offset/scroll.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/offset/static.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/offset/table.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/params_html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/readywaitasset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/readywaitloader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/script.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/selector/html5_selector.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/selector/sizzle_cache.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/statusText.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/support/bodyBackground.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/support/csp-clean.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/support/csp-log.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/support/csp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/support/csp.log" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/support/csp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/support/getComputedSupport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/test.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/test.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/test2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/test3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/testbar.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/testinit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/testrunner.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/testsuite.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/text.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/with_fries.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/data/with_fries_over_jsonp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/delegatetest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/hovertest.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/integration/data/gh-1764-fullscreen-iframe.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/integration/data/gh-1764-fullscreen-iframe.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/integration/data/gh-1764-fullscreen.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/integration/gh-1764-fullscreen.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/integration/gh-2343-ie-radio-click.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/localfile.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/networkerror.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/node_smoke_tests/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/node_smoke_tests/document_missing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/node_smoke_tests/document_passed.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/node_smoke_tests/document_present_originally.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/node_smoke_tests/iterable_with_native_symbol.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/node_smoke_tests/iterable_with_symbol_polyfill.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/node_smoke_tests/lib/ensure_global_not_created.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/node_smoke_tests/lib/ensure_iterability_es6.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/node_smoke_tests/lib/ensure_jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/promises_aplus_adapters/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/promises_aplus_adapters/deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/promises_aplus_adapters/when.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/readywait.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/ajax.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/animation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/attributes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/basic.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/callbacks.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/css.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/data.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/deferred.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/deprecated.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/dimensions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/effects.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/event.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/exports.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/manipulation.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/offset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/queue.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/ready.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/selector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/serialize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/support.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/traversing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/tween.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/unit/wrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/jquery-1.11.1/test/xhtml.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/css/app.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/css/app.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/js/app.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dist/assets/js/main.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_checkGlobal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createBaseWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createCtorWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createCurryWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createHybridWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createPartialWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createRecurryWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createWrapper.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_indexOfNaN.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_isFlattenableIteratee.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pako/Gruntfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pako/HISTORY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pako/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/pako/doc/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gruntfile.js" afterPath="$PROJECT_DIR$/Gruntfile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/CHANGELOG" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/CHANGELOG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/README.md" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/README.md" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_addMapEntry.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_addMapEntry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_addSetEntry.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_addSetEntry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_apply.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_apply.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseClamp.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseClamp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseClone.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseClone.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseConforms.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseConforms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseDelay.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseDelay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseGt.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseGt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseInRange.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseInRange.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseIndexOf.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseIndexOf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseKeys.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseKeys.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseLt.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseLt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseMergeDeep.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseMergeDeep.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseNth.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseNth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_basePick.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_basePick.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_basePickBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_basePickBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseRange.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseRange.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseUnary.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_baseUnary.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_copyObject.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_copyObject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createAggregator.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createAggregator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createAssigner.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createAssigner.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createFind.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createFind.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createFlow.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createFlow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createMathOperation.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createMathOperation.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createOver.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createOver.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createSet.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_createSet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_deburrLetter.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_deburrLetter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_equalArrays.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_equalArrays.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_equalByTag.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_equalByTag.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_equalObjects.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_equalObjects.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_escapeHtmlChar.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_escapeHtmlChar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_getPrototype.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_getPrototype.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_getSymbols.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_getSymbols.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_getSymbolsIn.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_getSymbolsIn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_getTag.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_getTag.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_isFlattenable.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_isFlattenable.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_mergeData.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_mergeData.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_mergeDefaults.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_mergeDefaults.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_root.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_root.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_stackSet.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_stackSet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_unescapeHtmlChar.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/_unescapeHtmlChar.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/add.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/add.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/ary.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/ary.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/assign.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/assign.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/assignIn.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/assignIn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/at.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/at.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/attempt.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/attempt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/before.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/before.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/bind.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/bind.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/bindAll.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/bindAll.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/bindKey.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/bindKey.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/collection.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/collection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/cond.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/cond.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/conforms.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/conforms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/core.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/core.min.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/core.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/countBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/countBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/curry.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/curry.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/curryRight.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/curryRight.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/debounce.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/debounce.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/defaults.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/defaults.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/defaultsDeep.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/defaultsDeep.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/defer.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/defer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/delay.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/delay.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/difference.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/difference.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/differenceBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/differenceBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/differenceWith.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/differenceWith.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/divide.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/divide.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/dropRightWhile.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/dropRightWhile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/dropWhile.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/dropWhile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/endsWith.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/endsWith.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/eq.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/eq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/every.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/every.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/filter.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/filter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/find.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/find.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/findIndex.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/findIndex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/findKey.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/findKey.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/findLast.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/findLast.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/findLastIndex.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/findLastIndex.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/findLastKey.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/findLastKey.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flatMap.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flatMap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flatMapDeep.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flatMapDeep.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flatMapDepth.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flatMapDepth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flip.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flow.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flowRight.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/flowRight.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/_baseConvert.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/_baseConvert.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/_mapping.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/_mapping.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/conforms.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/conforms.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/matches.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/matches.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/property.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/property.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/propertyOf.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/propertyOf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/whereEq.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fp/whereEq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fromPairs.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/fromPairs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/get.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/get.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/groupBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/groupBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/identity.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/identity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/includes.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/includes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/intersection.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/intersection.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/intersectionBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/intersectionBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/intersectionWith.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/intersectionWith.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/invertBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/invertBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/invoke.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/invoke.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/invokeMap.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/invokeMap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isArguments.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isArguments.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isArray.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isArray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isArrayBuffer.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isArrayBuffer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isBoolean.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isBoolean.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isBuffer.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isBuffer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isDate.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isDate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isEqual.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isEqual.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isFunction.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isFunction.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isMap.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isMap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isMatch.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isMatch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isNative.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isNative.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isNumber.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isNumber.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isRegExp.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isRegExp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isSet.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isSet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isString.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isString.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isSymbol.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isSymbol.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isTypedArray.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isTypedArray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isWeakMap.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isWeakMap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isWeakSet.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/isWeakSet.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/keyBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/keyBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/lang.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/lang.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/lastIndexOf.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/lastIndexOf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/lodash.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/lodash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/lodash.min.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/lodash.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/map.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/mapKeys.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/mapKeys.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/mapValues.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/mapValues.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/matches.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/matches.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/matchesProperty.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/matchesProperty.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/maxBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/maxBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/meanBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/meanBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/merge.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/merge.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/mergeWith.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/mergeWith.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/method.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/method.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/methodOf.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/methodOf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/minBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/minBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/multiply.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/multiply.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/negate.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/negate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/noop.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/noop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/nthArg.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/nthArg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/object.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/object.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/omit.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/omit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/omitBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/omitBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/once.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/once.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/over.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/over.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/overArgs.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/overArgs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/overEvery.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/overEvery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/overSome.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/overSome.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/partial.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/partial.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/partialRight.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/partialRight.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/partition.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/partition.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/pick.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/pick.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/pickBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/pickBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/pull.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/pull.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/pullAllBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/pullAllBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/pullAt.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/pullAt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/rearg.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/rearg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/reject.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/reject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/remove.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/remove.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/rest.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/rest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/some.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/some.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/sortBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/sortBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/sortedIndexBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/sortedIndexBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/sortedLastIndexBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/sortedLastIndexBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/sortedUniqBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/sortedUniqBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/spread.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/spread.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/startsWith.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/startsWith.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/stubArray.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/stubArray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/stubFalse.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/stubFalse.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/stubObject.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/stubObject.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/stubString.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/stubString.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/stubTrue.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/stubTrue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/subtract.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/subtract.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/sumBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/sumBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/takeRightWhile.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/takeRightWhile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/takeWhile.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/takeWhile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/toArray.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/toArray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/union.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/union.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/unionBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/unionBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/unionWith.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/unionWith.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/uniqBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/uniqBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/unzip.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/unzip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/util.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/without.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/without.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/wrap.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/wrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/wrapperAt.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/wrapperAt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/wrapperLodash.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/wrapperLodash.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/xor.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/xor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/xorBy.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/xorBy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/xorWith.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/xorWith.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/zip.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/zip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/zipWith.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/node_modules/lodash/zipWith.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/package.json" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/tasks/lib/uglify.js" afterPath="$PROJECT_DIR$/node_modules/grunt-contrib-uglify/tasks/lib/uglify.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/LICENSE" afterPath="$PROJECT_DIR$/node_modules/pako/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/README.md" afterPath="$PROJECT_DIR$/node_modules/pako/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/dist/pako.js" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/dist/pako.min.js" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/dist/pako_deflate.js" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako_deflate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/dist/pako_deflate.min.js" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako_deflate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/dist/pako_inflate.js" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako_inflate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/dist/pako_inflate.min.js" afterPath="$PROJECT_DIR$/node_modules/pako/dist/pako_inflate.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/lib/deflate.js" afterPath="$PROJECT_DIR$/node_modules/pako/lib/deflate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/lib/inflate.js" afterPath="$PROJECT_DIR$/node_modules/pako/lib/inflate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/lib/utils/common.js" afterPath="$PROJECT_DIR$/node_modules/pako/lib/utils/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/lib/utils/strings.js" afterPath="$PROJECT_DIR$/node_modules/pako/lib/utils/strings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/lib/zlib/constants.js" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/constants.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/lib/zlib/crc32.js" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/crc32.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/lib/zlib/deflate.js" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/deflate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/lib/zlib/inflate.js" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/inflate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/lib/zlib/inftrees.js" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/inftrees.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/lib/zlib/messages.js" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/messages.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/lib/zlib/trees.js" afterPath="$PROJECT_DIR$/node_modules/pako/lib/zlib/trees.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/pako/package.json" afterPath="$PROJECT_DIR$/node_modules/pako/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+    </list>
+    <ignored path="Grunt-start-project.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Grunt-start-project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="66" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER">
+    <gruntfile path="$PROJECT_DIR$/Gruntfile.js" />
+  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="987" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grunt-start-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grunt-start-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grunt-start-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grunt-start-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grunt-start-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grunt-start-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Grunt-start-project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c455ce33-85dc-4d0d-b8c1-da971c53cea7" name="Default" comment="" />
+      <created>1469453525409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1469453525409</updated>
+      <workItem from="1469453527398" duration="1247000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1247000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="23" width="1680" height="987" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19345239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/assets/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="66" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
