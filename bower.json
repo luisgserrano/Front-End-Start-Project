@@ -16,7 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap-sass": "^3.3.6",
+    "bootstrap-sass": "^3.3.7",
     "jquery": "^3.1.0",
     "jquery-migrate": "^3.0.0"
   }
