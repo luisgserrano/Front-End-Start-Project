@@ -10,8 +10,7 @@ module.exports = function(grunt) {
                     destPrefix: "dist/assets/libs"
                 },
                 files: {
-                    "jquery": "jquery/dist/jquery.min.js",
-                    "jquery": "jquery-migrate/jquery-migrate.min.js",
+                    "jquery": ["jquery/dist/jquery.min.js", "jquery-migrate/jquery-migrate.min.js"],
                     "bootstrap/scss": "bootstrap-sass/assets/stylesheets",
                     "bootstrap/fonts": "bootstrap-sass/assets/fonts",
                     "bootstrap/js": "bootstrap-sass/assets/javascripts/bootstrap.min.js"
