@@ -4,6 +4,7 @@ module.exports = function(grunt) {
     grunt.initConfig({
         pkg: grunt.file.readJSON("package.json"),
         // copy only the files you want to a more organized folder
+        // comment 'bowercopy' after running the first time the grunt file
         bowercopy: {
             libs: {
                 options: {
