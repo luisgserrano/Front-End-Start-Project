@@ -7,7 +7,7 @@ You use grunt and bower to start your projects?
 Want to optimize your css and js? Minification? Concatenation?
 
 This is the start project you will need. Just start with:
-`npm install` and then `grunt`.
+`npm install`, `bower install`, and then `grunt`.
 
 If you want to install a new package with bower just use, for example:
 `bower install jquery`
