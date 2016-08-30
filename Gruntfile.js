@@ -40,15 +40,15 @@ module.exports = function(grunt) {
         // compress and convert the main scss file to a css file
         // if you dont use sass, just get rid of this block
         sass: {
-            dist: {
-                options: {
+            options: {
                     style: "compressed"
                 },
-                files: {
-                    // Destinations         // Source File
-                    "dist/assets/css/app.css": "assets/scss/main.scss"
+                dist: {
+                    files: {
+                        // Destinations         // Source File
+                        "dist/assets/css/app.css": "assets/scss/main.scss"
+                    }
                 }
-            }
         },
         // minify your JS files
         uglify: {
